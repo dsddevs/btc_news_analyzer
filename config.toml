@@ -1,0 +1,8 @@
+bitcoin_keywords = ["bitcoin", "cryptocurrency", "blockchain", "btc", "crypto"]
+coindesk_api_url = "https://api.coindesk.com/v1/bpi/historical/close.json"
+newsapi_url = "https://newsapi.org/v2/everything"
+newsapi_key = ""
+huggingface_api_url = "https://api-inference.huggingface.co/models/cardiffnlp/twitter-roberta-base-sentiment-latest"
+huggingface_api_key = ""
+max_articles = 50
+max_concurrent_requests = 10
