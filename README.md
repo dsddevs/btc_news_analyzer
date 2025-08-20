@@ -47,7 +47,7 @@ cp .env.example .env
 cargo run --release
 ```
 
-**Service will be available at:** `http://localhost:8080`
+**Service will be available at:** `http://localhost:3000`
 
 ## 🔧 Configuration
 
