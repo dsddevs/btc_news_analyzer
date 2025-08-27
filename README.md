@@ -1,5 +1,10 @@
 # Bitcoin News Analyzer Pro 🚀
 
+[![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)](https://www.rust-lang.org)
+[![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](LICENSE)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+
+
 *Professional-grade Bitcoin analysis powered by AI sentiment analysis and multi-source price tracking*
 
 ## 🎯 What Makes This Special
